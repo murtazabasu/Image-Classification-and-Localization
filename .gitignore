@@ -70,7 +70,3 @@ ipython_config.py
 
 # pytype static type analyzer
 .pytype/
-
-
-# images
-*.png
